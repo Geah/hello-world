@@ -1,6 +1,6 @@
 # hello-world
 A simple exercise to get started
 
- I like nachos!
+I like nachos!
  
-  Thank you for tuning in.
+Thank you for tuning in.
